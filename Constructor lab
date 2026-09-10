@@ -1,0 +1,21 @@
+1.Write a Java program to create a Mobile class with brand, model, and price. Create two objects and display their details using a method.
+
+2.Student Management
+Write a Java program to create a Student class and demonstrate constructor overloading using:
+
+	-Default constructor
+	-Constructor with name and age
+	-Constructor with name, age, and marks
+	-Display the details of all students
+
+3. Employee – Constructor Overloading
+
+Create a class Employee with data members id, name, and salary. Implement constructor overloading using a default constructor, parameterized constructor, and constructor with different parameters. Create objects using all constructors and display their values.
+
+4. Book – Copy Constructor
+
+Create a class Book with data members bookId, title, and price. Define a parameterized constructor to initialize the object and a copy constructor to create a new object from an existing object. Display the details of both objects.
+
+5. Product – Multiple Constructors
+
+Create a class Product with data members productId, productName, and price. Define multiple constructors to initialize the object with different numbers of values. Create at least three objects using different constructors and display their details.

@@ -1,0 +1,93 @@
+1.Write a program in Java to find distance between two points.
+Formula: √((x₂−x₁)²+(y₂−y₁)²)
+2.Write a program in Java to calculate age from birth year
+
+3.Write a program to calculate EMI (Equated Monthly Installment).
+Formula:
+EMI = P × R × (1+R)^N / ((1+R)^N − 1)
+
+4.Write a program to calculate Clock Angle between hour and minute hands.
+5.Cost Price from Selling Price and Profit %(CP = SP / (1 + Profit / 100))
+6.Find Midpoint of Two Coordinates
+7.Convert Total Days to Weeks and Days
+8.Calculate Total Hours Lived (Approximate)
+(totalHours = age * 365 * 24)
+9.Smallest of Three Numbers
+
+10.Check Three Numbers are Equal, Two are Equal, or All Different
+
+11.Check Whether a Number is a 3-Digit Number
+
+12.ATM Withdrawal Check
+
+13. Username and Password Login
+Write a Java program to input a username and password. If the username is "admin", check the password. If the password is "1234", display "Login Successful". If only the password is incorrect, display "Wrong Password". If the username is incorrect, display "User Not Found".
+
+14. Age Eligibility Checker
+Write a Java program to input a person’s age. If the age is less than 0, display "Invalid Age". If the age is below 18, display "Not Eligible". Otherwise, display "Eligible".
+
+15. Exam Result System
+Write a Java program to input a student’s attendance percentage and marks. A student is allowed to pass only if attendance is at least 75%. If attendance is sufficient, check the marks: 40 or above means "Pass"; otherwise display "Fail". If attendance is below 75%, display "Not Eligible Due to Low Attendance".
+
+16. Bank Loan Approval System
+Write a Java program to input a customer’s age, monthly salary, and credit score. A loan is approved only if the customer is at least 21 years old, has a monthly salary of at least ₹30,000, and has a credit score of at least 700. Otherwise, display the appropriate reason for rejection.
+
+17. Scholarship Eligibility
+Write a Java program to input a student’s marks, annual family income, and sports quota status. A student is eligible if marks are at least 85 and family income is below ₹3,00,000, or if the student has a sports quota.
+
+18. Placement Eligibility System
+Write a Java program to input a student’s CGPA, number of active backlogs, and attendance percentage. A student is eligible for placement only if CGPA is at least 7.0, there are no active backlogs, and attendance is at least 75%. Otherwise, display the appropriate reason for rejection.
+
+
+
+--------------------------------------------Arrrys---------------------------------
+19.Find the average of all elements.
+20.Find the largest element.
+21.Count positive, negative and zero values in 1D and 2D array.
+22.Find the product of all elements.
+23.Print elements in reverse order.
+24.Count frequency of a given element.
+25.Search an element using a 2D array (Linear Search).
+
+26.Find the largest element and its position.
+
+27.Implement a mini cricket scoreboard:
+Player    Runs   Balls   4s   6s
+
+Virat      80      55     8    2
+Rohit      45      30     5    3
+Gill       70      60     6    1
+
+Then calculate:
+
+Total runs
+Highest scorer
+Number of boundaries (4s + 6s)
+Team total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+String
+
+WAP to count the number of vowels in a string.
+WAP to count the number of consonants in a string.
+WAP to reverse a string.
+WAP to count the number of words in a sentence

@@ -7,7 +7,7 @@ int main()
     int i, count = 0;
 
     printf("Enter string: ");
-    gets(str);
+    scanf("%s",str);
 
     printf("Enter character: ");
     scanf(" %c", &ch);

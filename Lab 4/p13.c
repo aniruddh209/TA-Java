@@ -7,10 +7,10 @@ int main()
     int i;
 
     printf("Enter string: ");
-    gets(str);
+    scanf("%s",str);//gets(str);
 
-    printf("Enter character to replace: ");
-    scanf("%c", &oldChar);
+    printf("Enter character to replace:\n");
+    scanf(" %c", &oldChar);
 
     printf("Enter new character: ");
     scanf(" %c", &newChar);

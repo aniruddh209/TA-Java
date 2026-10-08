@@ -1,0 +1,11 @@
+Q1. Create a class Student with rollNo, name, and marks. Implement default, parameterized, and copy constructors to initialize student objects. Use the this keyword wherever required and display the details of all objects.
+
+Q2. Create a class Person with name and age and derive a class Student with rollNo and marks. Define parameterized constructors in both classes and use super() and this to initialize the data members. Display complete student information.
+
+Q3. Create a class BankAccount with accountNo, customerName, and balance. Use a parameterized constructor to initialize the account and define deposit(), withdraw(), and displayBalance() methods. Create multiple objects using an array of objects and perform the required operations.
+
+Q4. Create a class Employee with id, name, and salary, and derive a class Manager with department and bonus. Use constructor overloading, this, and super() to initialize the objects. Display complete employee and manager details.
+
+Q5. Create a class Rectangle with length, width, and static variable count. Implement default, parameterized, and copy constructors along with an initializer block and static initializer block. Define methods to calculate area and display the number of objects created.
+
+Q6. Create a superclass Vehicle with brand and price and derive a class Car with model and fuelType. Use super() to call the parent constructor and this to initialize child-class variables. Create multiple Car objects and display all details.

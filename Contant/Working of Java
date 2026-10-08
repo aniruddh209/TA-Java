@@ -1,0 +1,19 @@
+1. Write code
+
+2. Save as Test.java
+
+3. javac Test.java
+
+4. Bytecode Test.class
+
+
+5. JVM loads class
+
+
+6. JVM finds main()
+
+
+7. Executes statements
+
+
+8. Output displayed

@@ -1,0 +1,13 @@
+Question 1 – Student
+Create a Student class using constructor overloading with constructors for default values, name/roll number, and complete student details. Take the number of students and their details using a loop, then display all student information.
+Question 2 – Product
+Create a Product class using constructor overloading with constructors for product name, product ID, and price. Take input for multiple products using a loop and display the entered product details.
+Question 3
+Create a Book class with overloaded constructors to initialize book title, author, and price. Take details of N books using a loop and display all records.
+
+Single Inheritance
+Question
+Create a Person class with name and age, and create a Student class that inherits from Person and adds roll number and course. Take input for N students using a loop and display all their details.
+Question
+
+92. Create a class named Shape. Create three subclasses Circle, Triangle, and Square using single inheritance. Take the required values from the user and write a program to display the area of all three shapes.

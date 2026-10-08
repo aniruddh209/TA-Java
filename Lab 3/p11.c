@@ -19,7 +19,7 @@ int main()
     printf("Enter value to insert: ");
     scanf("%d", &value);
 
-    for(i = n - 1; i >= 0 && arr[i] > value; i--)
+    for(i = n - 1; i >= 0 && arr[i] >= value; i--)
     {
         arr[i + 1] = arr[i];
     }

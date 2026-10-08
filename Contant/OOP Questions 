@@ -1,0 +1,14 @@
+1.Create a class Student with data members rollNo, name, and marks.
+create multipal object of student using loop and using array of object,
+Create the following methods:
+getDetails() – Accept student details.
+displayDetails() – Display student details.
+
+2.Create a Bank class having account number, customer name and balance. Perform Deposit, Withdraw and Display Balance.
+
+3.Create a class Student with data members rollNo, name, semester, marks1, marks2, and marks3.
+Create the following methods:
+getDetails() – Accept student details.
+calculatePercentage() – Calculate percentage.
+checkResult() – Check Pass/Fail.
+displayDetails() – Display student details.

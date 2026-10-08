@@ -1,0 +1,7 @@
+1.WAP for implementing single inheritance which creates one class Employee for getting employee information and another class Salary for calculating and displaying gross salary from the data inserted from employee details.
+
+2.WAP for implementing single inheritance which creates one class Account for storing account number, holder name and balance, and another class Bank for calculating and displaying the final balance after interest is added.
+
+3.Create a class Person containing name and age. Create a class Employee inheriting Person containing employee ID and salary. Create a class Manager inheriting Employee containing department. Display all details using constructors
+
+4.Create a class Employee containing name and salary. Create two subclasses Developer and Manager. Developer should calculate bonus based on salary, while Manager should calculate bonus using a different percentage.
